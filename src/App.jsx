@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 import Counter from './Action'
 import { Provider } from 'react-redux'
-import { checkstore } from './reduxxx/store'
+import { checkstore } from './reduxxx/Store'
 
 function App() {
 
