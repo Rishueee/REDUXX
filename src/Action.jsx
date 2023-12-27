@@ -1,5 +1,5 @@
 import React from 'react';
-import { inc, dec, Selector } from './reduxxx/Reducer'; 
+import { inc, dec, Selector } from './reduxxx/reducer'; 
 import { useDispatch, useSelector } from 'react-redux';
 
 const Counter = () => {
